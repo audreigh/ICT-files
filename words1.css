@@ -1,0 +1,23 @@
+p1 {  
+  font-style: italic;
+}
+
+h3 {font-family: Times New Roman;
+}
+
+h1 {font-family: Tahoma;
+  border: 3px solid; color:#D3DCEA;
+  padding: 10px;
+  border-radius: 25px;
+  padding: 40px;
+  margin: auto;
+  width: 60%;
+}
+
+ul {font-family: Times New Roman;
+	font-weight: bold;
+	line-height: 1.6;
+	border: 3px solid black;
+	padding: 30px;
+	border-radius: 25px;
+}
